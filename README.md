@@ -26,7 +26,7 @@ sudo apt-get install python3.7-venv python3.7-dev build-essential redis-server
 
 Clone the repo
 ~~~
-git clone https://github.com/mischkadb/lidarts lidarts-dev
+git clone https://github.com/eckosean/lidarts lidarts-dev
 ~~~
 
 Create a new virtual environment and activate it
