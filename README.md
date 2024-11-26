@@ -21,7 +21,7 @@ To set up a development environment make sure you have Python 3.6 or later insta
 Install the system requirements. Change "python3" to a different version (e.g. to "python3.7-venv" etc.) if you have a custom installation of Python and you don't want to use the system default.
 ~~~
 sudo apt-get update
-sudo apt-get install python3-venv python3-dev build-essential redis-server
+sudo apt-get install python3.7-venv python3.7-dev build-essential redis-server
 ~~~
 
 Clone the repo
