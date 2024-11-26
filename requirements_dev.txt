@@ -21,10 +21,10 @@ Flask-Moment==1.0.2
 Flask-MonitoringDashboard==3.1.1
 Flask-Principal==0.4.0
 Flask-Script==2.0.6
--e git://github.com/mischkadb/flask-security.git#egg=Flask_Security
+Flask_Security==3.0.0
 Flask-SocketIO==4.2.1
 Flask-SQLAlchemy==2.5.1
--e git://github.com/maxcountryman/flask-uploads.git#egg=Flask_Uploads
+Flask_Uploads==0.2.0
 Flask-WTF==1.0.0
 gevent==21.12.0
 gevent-websocket==0.10.1
